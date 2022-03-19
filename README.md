@@ -2,10 +2,6 @@
 
 this is a simple gps game in Lviv
 
-#map
-'''python
-
-mapp = "\n\
                 Оперний театр___!!!КРАКІВСЬКА!!!___Данила Галицького\n\
                 /                     |                 \           \n\
                /___Вірменська____площа Ринок_____        \          \n\
@@ -29,8 +25,6 @@ mapp = "\n\
                                        \/                           \n\
                                     !!!УКУ!!!"
                                     
-print(mapp)
-'''
 
 the player should reach the Krakivska street,
 
